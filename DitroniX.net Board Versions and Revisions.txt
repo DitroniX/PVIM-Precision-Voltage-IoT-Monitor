@@ -1,0 +1,21 @@
+
+For various production reasons and component availability, our boards may require update.  The below list contains any revision information summary.
+
+  PVIM ESP32 AD7606 Precision Voltage IoT Monitor SDK Board SDK
+  This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition board with Simultaneously Sampled Isolated Inputs.
+
+*Production*
+
+*Pre-Production*
+1.2304-101	Beta Release
+
+
+
+Further information can be found:
+
+Website https://ditronix.net/
+WIKI https://ditronix.net/wiki/
+GitHub https://github.com/DitroniX
+Shop https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2023 | ditronix.net
