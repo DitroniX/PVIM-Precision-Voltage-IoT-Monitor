@@ -4,6 +4,8 @@ This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition boar
 
 A beta version of this board will be tested tested and then made available during May 2023.
 
+_PVIM Beta PCB 3D Image_
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-PCA.png?raw=true)
 
 ------------
 
