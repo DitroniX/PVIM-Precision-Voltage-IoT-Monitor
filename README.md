@@ -4,7 +4,7 @@ This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition boar
 
 A beta version of this board will be tested tested and then made available during May 2023.
 
-_PVIM Beta PCB 3D Image_
+_PVIM Beta PCB 3D Image - Components_
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-PCA.png?raw=true)
 
 ------------
@@ -29,10 +29,19 @@ _PVIM Beta PCB 3D Image_
 - Controlled using an ESP32 MCU
 - Easy USB Connectivity Flashing, Logging etc
 
+_PVIM Beta PCB 3D Image - Board_
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-3D-Angled.png?raw=true)
+
+_PVIM Beta PCB 3D Image - Bottom Jumpers_
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-Bottom-3D.png?raw=true)
+
+------------
+
  The **PVIM ESP32 AD7606 Precision Voltage IoT Monitor** board specification overview:
  
 - ESP32 MCU with integrated Wi-Fi and Bluetooth connectivity 
 - AD7606BSTZ 8 Channel DAS DSP
+- Digital Volt Meter (DVM)
 - 8 x Simultaneously Sampled Isolated Inputs
 - Synchronous Data Acquisition
 - 16-bit ADC with 200 kSPS on All channels
@@ -48,4 +57,4 @@ _PVIM Beta PCB 3D Image_
 - Board Wide DC Power Input Range 8 to 60V
 - USB Wemos D1 Compatible
 
-Further details can also be found at https://www.hackster.io/ditronix/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f
+Further details on this project, can also be found at https://www.hackster.io/ditronix/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f
