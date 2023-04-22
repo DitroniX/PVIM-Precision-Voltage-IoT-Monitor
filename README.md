@@ -4,7 +4,7 @@ This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition boar
 
 A beta version of this board will be tested tested and then made available during May 2023.
 
-_PVIM Beta PCB 3D Image_
+_PVIM Beta PCB 3D Image - Components_
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-PCA.png?raw=true)
 
 ------------
@@ -28,6 +28,12 @@ _PVIM Beta PCB 3D Image_
 - Lower Current Usage
 - Controlled using an ESP32 MCU
 - Easy USB Connectivity Flashing, Logging etc
+
+_PVIM Beta PCB 3D Image - Board_
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-3D-Angled.png?raw=true)
+
+_PVIM Beta PCB 3D Image - Bottom Jumpers_
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-Bottom-3D.png?raw=true)
 
 ------------
 
