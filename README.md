@@ -35,6 +35,7 @@ _PVIM Beta PCB 3D Image_
  
 - ESP32 MCU with integrated Wi-Fi and Bluetooth connectivity 
 - AD7606BSTZ 8 Channel DAS DSP
+- Digital Volt Meter (DVM)
 - 8 x Simultaneously Sampled Isolated Inputs
 - Synchronous Data Acquisition
 - 16-bit ADC with 200 kSPS on All channels
@@ -50,4 +51,4 @@ _PVIM Beta PCB 3D Image_
 - Board Wide DC Power Input Range 8 to 60V
 - USB Wemos D1 Compatible
 
-Further details can also be found at https://www.hackster.io/ditronix/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f
+Further details on this project, can also be found at https://www.hackster.io/ditronix/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f
