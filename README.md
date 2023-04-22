@@ -29,6 +29,8 @@ _PVIM Beta PCB 3D Image_
 - Controlled using an ESP32 MCU
 - Easy USB Connectivity Flashing, Logging etc
 
+------------
+
  The **PVIM ESP32 AD7606 Precision Voltage IoT Monitor** board specification overview:
  
 - ESP32 MCU with integrated Wi-Fi and Bluetooth connectivity 
