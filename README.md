@@ -58,3 +58,14 @@ _PVIM Beta PCB 3D Image - Bottom Jumpers_
 - USB Wemos D1 Compatible
 
 Further details on this project, can also be found at https://www.hackster.io/ditronix/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f
+
+
+Further information can be found:
+
+- **Website** https://ditronix.net/
+- **WIKI**  https://ditronix.net/wiki/
+- **GitHub**  https://github.com/DitroniX/
+- **Shop**  https://ditronix.net/shop/
+- **Hackster.io** https://www.hackster.io/ditronix
+
+Dave Williams | G8PUO | DitroniX 1981-2023 | ditronix.net
