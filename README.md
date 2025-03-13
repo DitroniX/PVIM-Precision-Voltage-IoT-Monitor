@@ -16,8 +16,15 @@ Updates include:
 
 The AD7606BBSTZ (16-bit ADC with 800 kSPS), or even an AD7606C-18BSTZ (18-bit ADC with 1 MSPS on all channels), is still in the shopping list.
 
-_PVIM Beta PCB 3D Image - Components_
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-PCA.png?raw=true)
+PVIM Beta PCB
+![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20%20Base%20Board.jpg?raw=true)
+
+![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20%20U.FL%20Pigtails%20SMA.jpg?raw=true)
+
+PVIM Beta PCB Input Options
+![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20Mixed%20Input%20Connectors%20Filter%20RC.jpg?raw=true)
+
+![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20Mixed%20Input%20Connectors%20Full.jpg?raw=true)
 
 ------------
 
