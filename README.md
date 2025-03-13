@@ -21,7 +21,7 @@ PVIM Beta PCB
 
 ![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20%20U.FL%20Pigtails%20SMA.jpg?raw=true)
 
-PVIM Beta PCB Input Options
+PVIM Beta PCB Input Options and filtering
 ![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20Mixed%20Input%20Connectors%20Filter%20RC.jpg?raw=true)
 
 ![PVIM Beta](https://github.com/DitroniX/PVIM-Precision-Voltage-IoT-Monitor/blob/main/Datasheets%20and%20Information/PVIM%20ESP32%20AD7606%20SDK%201.2304.101%20Beta%20-%20Mixed%20Input%20Connectors%20Full.jpg?raw=true)
@@ -47,12 +47,6 @@ PVIM Beta PCB Input Options
 - Lower Current Usage
 - Controlled using an ESP32 MCU
 - Easy USB Connectivity Flashing, Logging etc
-
-_PVIM Beta PCB 3D Image - Board_
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-3D-Angled.png?raw=true)
-
-_PVIM Beta PCB 3D Image - Bottom Jumpers_
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-Bottom-3D.png?raw=true)
 
 ------------
 
