@@ -2,7 +2,19 @@
 
 This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition board with Simultaneously Sampled Isolated Inputs.
 
-A beta version of this board will be fully tested and then made available during May 2023.
+This project is planned to be updated and launched on **KickStarter in Q2 2025**.  Other information can be found on [Hackster.io](https://www.hackster.io/DitroniX/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f) 
+
+Updates include:
+
+* Increased speed of MCU, such as ESP32-S3 or better ESP32-P4. This will provide better computational speed where high speed data acquisitions are needed.
+
+* Change the USB to the Type C and also update the UART due to obsolescence.
+
+* Tinker with the PSU. Whilst it is OK I want to improve.
+
+* Add Ethernet. This would help in many use cases.
+
+The AD7606BBSTZ (16-bit ADC with 800 kSPS), or even an AD7606C-18BSTZ (18-bit ADC with 1 MSPS on all channels), is still in the shopping list.
 
 _PVIM Beta PCB 3D Image - Components_
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/04/PVIM-ESP32-AD7606-SDK-1.2304.101-Beta-PCA.png?raw=true)
@@ -58,13 +70,21 @@ _PVIM Beta PCB 3D Image - Bottom Jumpers_
 - USB Wemos D1 Compatible
 
 
+## **Purchase**
+
+Our STEM SDK boards and accessories are available from our online shop on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
+
+## **KickStarter**
+
+This project is planned to be updated and launched on [KickStarter](https://www.kickstarter.com/profile/ditronix/created) in Q2 2025.
+
 ## **Further Information**
 
 Additional information, and other technical details on this project, maybe found in the related repository pages.
 
 **Repository Folders**
 
- - **Code** *(Code examples for Arduino  IDE and PlatformIO)*
+ - **Code** *(Code examples for Raspberry, Arduino  IDE and PlatformIO)*
  -  **Datasheets and Information** *(Component Datasheets, Schematics, Board Layouts, Photos, Technical Documentation)*
  - **Certification** *(Related Repository Project or Part, Certification Information)*
 
