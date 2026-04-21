@@ -1,5 +1,7 @@
 ## PVIM ESP32 AD7606 Precision Voltage IoT Monitor SDK Board
 
+UPDATE: 20th April 2026.  This evaluation board is in redesign.
+
 This PVIM Board is a Precision, Eight Channel, Synchronous Data Acquisition board with Simultaneously Sampled Isolated Inputs.
 
 This project is planned to be updated and launched on **KickStarter in Q2 2025**.  Other information can be found on [Hackster.io](https://www.hackster.io/DitroniX/pvim-esp32-ad7606-precision-voltage-iot-monitor-sdk-board-acbe1f) 
